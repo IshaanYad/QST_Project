@@ -1,4 +1,3 @@
-
 AI based tools (ChatGPT and Claude) were used as a supportive resource and to summarize the code and projct structure. 
 The primary aim was to debug and to summarise the project.
 
